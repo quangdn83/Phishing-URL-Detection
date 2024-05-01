@@ -1,0 +1,1 @@
+URL_dataset.csv is a unique dataset consisting of 101,826 URLs. In this dataset, 46,445 phishing URLs were collected from PhishTank between 31 March 2022 to 16 June 2022, while 55,381 legitimate URLs were obtained from Common Crawl between October 2021 to January 2022.
